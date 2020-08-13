@@ -1,5 +1,6 @@
 Stack/*.vs
 Stack/*.sln
+Stack/*.vcxproj
 Stack/*.filters
 Stack/*.user
 Stack/Debug
