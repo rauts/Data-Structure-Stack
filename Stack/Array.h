@@ -70,6 +70,7 @@ public:
 			std::cout << e.what();
 			// terminate the application
 			exit(0); // need a better way to handle the exception 
+			
 		}
 		catch (...) {
 			std::cout << "Unknown exception is caught!\n";

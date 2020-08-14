@@ -28,7 +28,7 @@ public:
 	}
 
 	bool IsEmpty() const {
-		return CurrentSize == 0;
+		return CurrentSize() == 0;
 	}
 
 	void Push(int element) {
@@ -68,14 +68,22 @@ public:
 	
 	}
 
-	//int Top();
+	int Top() {
+		if (!IsEmpty()) {
+			return mStack[mTop];
+		}
+		else {
+			return -1;
+		}
+	}
 
-	//void reset();
+	void reset() {
+		if (!IsEmpty()) {
+			mTop = -1;
+		}	
+	}
 
-	//bool IsEmpty();
-
-	//int HowManyItem();
-
+	
 	//// ban copy constructor and assignment operators
 	//Stack(const Stack& rhs) = delete;
 	//Stack& operator = (const Stack& rsh) = delete;

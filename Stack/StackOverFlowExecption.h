@@ -1,5 +1,6 @@
 #pragma once
 
+
 #include <exception>
 
 class StackOverFlowExecption : public std::exception

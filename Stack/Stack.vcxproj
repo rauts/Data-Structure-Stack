@@ -141,6 +141,12 @@
   <ItemGroup>
     <ClCompile Include="Stack.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Array.h" />
+    <ClInclude Include="IndexOutOfBoundException.h" />
+    <ClInclude Include="Stack.h" />
+    <ClInclude Include="StackOverFlowExecption.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
