@@ -1,22 +1,24 @@
+
+
 ### Project Title
- **Data-Structure-Stack**
+**Data-Structure-Stack**
 
 ### Project Status
-Complete
+Completed
 
 
 ### Project Description
 The project is about implementing a custom stack data structure in modern `C++17` using object-oriented programming (OOP) paradigm. To highlight the OOP paradigm, the following programming constructs have been used in developing the project. However, the list may grow or change depending on available resources (e.g. time) in the future:
 
-  - User defined Array
-  - Class
-  - Exception
-  - Template
-  - Inheritance
-  - Encapsulation
-  - Design pattern
+- User defined Array
+- Class
+- Exception
+- Template
+- Inheritance
+- Encapsulation
+- Design pattern
 
-Note: This project is built on top of my previous project, [Data-Structure-Custum-Array](https://github.com/rauts/Data-Structure-Custum-Array). Particularly, custom template Array class is used to store data in the stack.
+Note: This project is built on top of my previous project [Data-Structure-Array](https://github.com/rauts/Data-Structure-Array). Particularly, a custom template Array class is used to store data in the stack.
 
 
 ### Usage
@@ -26,8 +28,8 @@ Users are requested to compile and build the codes in `Microsoft Visual Studio C
 
 Since the test codes are also provided in the same folder, users are encouraged to play with the test codes to enhance your understanding about the codes. Users are also encouraged to add more tests codes to increase the robustness of the current implementations of stack as well. 
 
-Hands of suggestions, comments, feedback or colaboration will be highly appreciated.  
- 
+Hands of suggestions, comments, feedback or colaboration will be highly appreciated. 
+
 
 ### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -38,19 +40,19 @@ Please make sure to update tests as appropriate.
 The whole project has been developed using following tools:
 
 Operating System (OS)
-  - OS Name:	Microsoft Windows 10 Education
-  - Version:	10.0.18363 Build 18363
-  
-  Hardware Specification
-  - System Type:	x64-based PC
-  - Processor:	Intel(R) Core(TM) i5 CPU  M 460  @ 2.53GHz, 2534 Mhz, 2 Core(s), 4 Logical Processor(s)
-  - Installed Physical Memory (RAM)	4,00 GB
+- OS Name: Microsoft Windows 10 Education
+- Version: 10.0.18363 Build 18363
+
+Hardware Specification
+- System Type: x64-based PC
+- Processor: Intel(R) Core(TM) i5 CPU M 460 @ 2.53GHz, 2534 Mhz, 2 Core(s), 4 Logical Processor(s)
+- Installed Physical Memory (RAM) 4,00 GB
 
 
 IDE
-  - Microsoft Visual Studio Community 2019 
-  - Version 16.6.3. 
- 
+- Microsoft Visual Studio Community 2019 
+- Version 16.6.3. 
+
 
 ### License
 
