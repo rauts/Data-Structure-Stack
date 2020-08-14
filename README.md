@@ -2,20 +2,21 @@
  **Data-Structure-Stack**
 
 ### Project Status
-On going
+Complete
 
 
 ### Project Description
 The project is about implementing a custom stack data structure in modern `C++17` using object-oriented programming (OOP) paradigm. To highlight the OOP paradigm, the following programming constructs have been used in developing the project. However, the list may grow or change depending on available resources (e.g. time) in the future:
 
+  - User defined Array
   - Class
-  - Operator overloading
-  - Move semantics
   - Exception
   - Template
   - Inheritance
   - Encapsulation
   - Design pattern
+
+Note: This project is built on top of my previous project, [Data-Structure-Custum-Array](https://github.com/rauts/Data-Structure-Custum-Array). Particularly, custum tamplate Array class is used to store data in the stack.
 
 
 ### Usage
